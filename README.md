@@ -1,1 +1,1 @@
-# We are currently investigating if there could be a potential leak of sensitive data in this repository. If there isn't any, we will restore the demo package.
+# For internal reasons the original package was replaced with this simplified version of it. It should still be usable to follow through the points made in the talk.
